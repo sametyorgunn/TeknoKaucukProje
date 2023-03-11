@@ -1,0 +1,16 @@
+C:\Users\asame\Desktop\.NetProjeler\TeknoKaucuk\TeknoKaucuk\bin\Debug\TeknoKaucuk.exe.config
+C:\Users\asame\Desktop\.NetProjeler\TeknoKaucuk\TeknoKaucuk\bin\Debug\TeknoKaucuk.exe
+C:\Users\asame\Desktop\.NetProjeler\TeknoKaucuk\TeknoKaucuk\bin\Debug\TeknoKaucuk.pdb
+C:\Users\asame\Desktop\.NetProjeler\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.csproj.AssemblyReference.cache
+C:\Users\asame\Desktop\.NetProjeler\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.csproj.SuggestedBindingRedirects.cache
+C:\Users\asame\Desktop\.NetProjeler\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.Birinci_islevsellik.resources
+C:\Users\asame\Desktop\.NetProjeler\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.Properties.Resources.resources
+C:\Users\asame\Desktop\.NetProjeler\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.csproj.GenerateResource.cache
+C:\Users\asame\Desktop\.NetProjeler\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.csproj.CoreCompileInputs.cache
+C:\Users\asame\Desktop\.NetProjeler\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.exe
+C:\Users\asame\Desktop\.NetProjeler\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.pdb
+C:\Users\asame\Desktop\.NetProjeler\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.Anasayfa.resources
+C:\Users\asame\Desktop\.NetProjeler\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.ikinci_islevsellik.resources
+C:\Users\asame\Desktop\.NetProjeler\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.ucuncu_islevsellik.resources
+C:\Users\asame\Desktop\.NetProjeler\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.dorduncu_islevsellik.resources
+C:\Users\asame\Desktop\.NetProjeler\TeknoKaucuk\TeknoKaucuk\obj\Debug\TeknoKaucuk.besinci_islevsellik.resources
